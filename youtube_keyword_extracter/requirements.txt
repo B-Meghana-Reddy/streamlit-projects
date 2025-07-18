@@ -1,0 +1,5 @@
+streamlit
+youtube-transcript-api
+rake-nltk
+beautifulsoup4
+requests
